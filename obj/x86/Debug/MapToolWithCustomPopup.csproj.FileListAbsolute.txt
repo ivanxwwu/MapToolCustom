@@ -1,0 +1,13 @@
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\bin\x86\Debug\template.html
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\bin\x86\Debug\CustomPopup.dll
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\bin\x86\Debug\CustomPopup.pdb
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\bin\x86\Debug\MapToolWithCustomPopup.xml
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\bin\x86\Debug\WebKitBrowser.dll
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\bin\x86\Debug\WebKit.Interop.dll
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\bin\x86\Debug\stdole.dll
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\obj\x86\Debug\MapToolWithCustomPopup.csprojAssemblyReference.cache
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\obj\x86\Debug\CustomPopup.g.resources
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\obj\x86\Debug\MapToolWithCustomPopup.csproj.CoreCompileInputs.cache
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\obj\x86\Debug\MapToolWithCustomPopup.csproj.CopyComplete
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\obj\x86\Debug\CustomPopup.dll
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\obj\x86\Debug\CustomPopup.pdb

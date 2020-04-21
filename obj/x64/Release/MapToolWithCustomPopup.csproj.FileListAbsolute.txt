@@ -1,0 +1,7 @@
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\bin\x64\Release\CustomPopup.dll
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\bin\x64\Release\CustomPopup.pdb
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\obj\x64\Release\CustomPopup.g.resources
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\obj\x64\Release\MapToolWithCustomPopup.csproj.CoreCompileInputs.cache
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\obj\x64\Release\CustomPopup.dll
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\obj\x64\Release\CustomPopup.pdb
+E:\svn\arcgis\arcgis-pro-sdk-community-samples-2.5.0.22081\Map-Exploration\MapToolWithCustomPopup2\obj\x64\Release\MapToolWithCustomPopup.csprojAssemblyReference.cache

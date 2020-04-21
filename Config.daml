@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+
+   Copyright 2019 Esri
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+-->
+<ArcGIS defaultAssembly="CustomPopup.dll" defaultNamespace="CustomPopup" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <AddInInfo id="{997969c2-c517-4481-af7e-dbdb0e20399c}" version="1.0" desktopVersion="2.0.0">
+    <Name>林业web界面</Name>
+    <Description>林业自定义web界面.</Description>
+    <Image>Images\AddinDesktop32.png</Image>
+    <Author>ivanlife55@163.com</Author> 
+    <Company>esri, http://www.ivan.com</Company>
+    <Date>9/28/2015</Date>
+    <Subject>Map-Exploration</Subject>
+  </AddInInfo>
+  <modules>
+    <insertModule id="forestryPopup_Module" className="Module1" autoLoad="false" caption="Module1">
+      <!-- 
+      <tabs>
+        <tab id="CustomPopup_Tab1" caption="Plenary">
+          <group refID="CustomPopup_Group1"/>
+        </tab>
+      </tabs>
+      -->
+      <groups>
+        <group id="forestry_Group1" caption="forestry" appearsOnAddInTab="true" keytip="z1" >
+          <tool refID="forestryPopup_CustomPopupTool" size="large" />
+        </group>
+      </groups>
+      <controls>
+        <tool id="forestryPopup_CustomPopupTool" caption="custom_popup_web" 
+              className="CustomPopupTool" loadOnClick="true" 
+              smallImage="Images\T-Rex16.png" largeImage="Images\T-Rex32.png" 
+              condition="esri_mapping_mapPane" keytip="z2">
+          <tooltip heading="custom_popup_web">
+            Shows a custom forestry pop-up for features in the map.<disabledText /></tooltip>
+        </tool>
+      </controls>
+    </insertModule>
+    <updateModule refID="ProAppModule1_Module">
+      <tabs>
+        <updateTab refID="Plenary_Tab">
+          <insertGroup refID="forestry_Group1" insert="after"/>
+        </updateTab>
+      </tabs>
+    </updateModule>
+  </modules>
+</ArcGIS>
